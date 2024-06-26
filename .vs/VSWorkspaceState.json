@@ -4,8 +4,9 @@
     "\\src",
     "\\src\\chapters",
     "\\src\\chapters\\01",
-    "\\src\\chapters\\01\\1.13"
+    "\\src\\chapters\\01\\1.13",
+    "\\src\\chapters\\01\\1.4"
   ],
-  "SelectedNode": "\\src\\chapters\\01\\1.13\\1.13.asm",
+  "SelectedNode": "\\src\\chapters\\01\\1.4\\test.asm",
   "PreviewInSolutionExplorer": false
 }
